@@ -1,13 +1,13 @@
 // ==UserScript==
 //@name         HH graph grabber
 //@namespace    http://omnigon.com/
-//@version      0.99
+//@version      1.0
 //@description  enter something useful
 //@author       Anton Zykov
 //@match        https://spb.hh.ru/employer/vacancy/stat/*
 //@require http://code.jquery.com/jquery-latest.js
 //@require https://datejs.googlecode.com/files/date.js
-//@updateUrl http://
+//@updateUrl https://github.com/Aggtaa/HH-stats-export/raw/master/HH%20graph%20grabber.user.js
 //@grant        none
 // ==/UserScript==
 
