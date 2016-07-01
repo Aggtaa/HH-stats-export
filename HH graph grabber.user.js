@@ -1,7 +1,7 @@
 // ==UserScript==
 //@name         HH graph grabber
 //@namespace    http://omnigon.com/
-//@version      1.0.1
+//@version      1.01
 //@description  enter something useful
 //@author       Anton Zykov
 //@match        https://spb.hh.ru/employer/vacancy/stat/*
